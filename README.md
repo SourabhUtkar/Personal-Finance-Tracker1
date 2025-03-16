@@ -6,13 +6,13 @@ Features:
  Supports CSV/Excel transaction files, 
  Categorizes expenses automatically ,
  Summarizes income, expenses, and savings ,
- Data cleaning & preprocessing using Pandas ,
+ Data cleaning & preprocessing using Pandas .
 
 Technologies Used
  Python ,
  Pandas ,
  NumPy ,
- Jupyter Notebook ,
+ Jupyter Notebook .
 
 Future Enhancements:
  Automated transaction fetching ,
