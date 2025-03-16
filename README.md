@@ -8,7 +8,7 @@ Features:
  Summarizes income, expenses, and savings ,
  Data cleaning & preprocessing using Pandas .
 
-Technologies Used
+Technologies Used:  
  Python ,
  Pandas ,
  NumPy ,
